@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz"
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.imgur.com/q5D1VoJ.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 1 HD",La 1 HD TVE1
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.imgur.com/q5D1VoJ.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 1 HD",La 1 HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEjBBKKilDJdbp0jDCTlXWT
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.imgur.com/xOwgxUR.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 2 HD",La 2 HD TVE2
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.imgur.com/xOwgxUR.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 2 HD",La 2 HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFHziiNZhLvaLVSR3KGHKrR
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/cEUZL3g.jpg" group-title="1 TDT ESPAÑA" tvg-name="ANTENA 3 HD",ANTENA 3 HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEd3Epib-XmDFVkTjFIiO4e
