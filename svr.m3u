@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz"
-
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.imgur.com/q5D1VoJ.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 1 HD",La 1 HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEjBBKKilDJdbp0jDCTlXWT
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.imgur.com/xOwgxUR.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 2 HD",La 2 HD
@@ -46,13 +45,13 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEh4Rfi-H6vn8iR4hUciS8q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUDaTZH.png" group-title="1 TDT ESPAÑA" tvg-name="FDF",FDF
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGEyPhhHMRJTB6lfx5pdESr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnpm3Wl.jpg" group-title="1 TDT ESPAÑA" tvg-name="A3SERIES",A3SERIES
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://i.imgur.com/qnpm3Wl.jpg" group-title="1 TDT ESPAÑA" tvg-name="A3SERIES",A3SERIES
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGzt_iqSRjynNp6dyhVR44X
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Z7oB9g.png" group-title="1 TDT ESPAÑA" tvg-name="ENERGY",ENERGY
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEPXa2DzZLtaCbIytF6dy15
 #EXTINF:-1 tvg-logo="https://i.imgur.com/utzEYMk.jpg" group-title="1 TDT ESPAÑA" tvg-name="DIVINITY",DIVINITY
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHwQBD3ya63d2dlRejUkE1_
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fzLrlqT.png" group-title="1 TDT ESPAÑA" tvg-name="BEMAD HD",BEMAD HD
+#EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://i.imgur.com/fzLrlqT.png" group-title="1 TDT ESPAÑA" tvg-name="BEMAD HD",BEMAD HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHKusN_JaZWL3rMrDSXeSTz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v2J4J6.png" group-title="1 TDT ESPAÑA" tvg-name="TEN",TEN
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFquTJM6q2Wxoj17dHcrbP6
@@ -72,13 +71,13 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEJiKsCW7FRQ0dyc8iwgWKy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7QlBpMv.png" group-title="1 TDT ESPAÑA" tvg-name="DARK HD",DARK HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EMMnhkO5e6BFTd7YTaYX328ZPPLv7egipOs8gyxHl-OL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yH4N6mM.jpg" group-title="1 TDT ESPAÑA" tvg-name="CALLE 13 HD",CALLE 13 HD
+#EXTINF:-1 tvg-id="Calle13.es"" tvg-logo="https://i.imgur.com/yH4N6mM.jpg" group-title="1 TDT ESPAÑA" tvg-name="CALLE 13 HD",CALLE 13 HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHwNcNnz4y4bbVC6UCQqh9C
-#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-logo="https://i.imgur.com/qhSUMkA.jpg" group-title="1 TDT ESPAÑA" tvg-name="AXN HD",AXN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhSUMkA.jpg" group-title="1 TDT ESPAÑA" tvg-name="AXN HD",AXN HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHUs9pjdP7pYvCJnIRAGhzJ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDYXuEH.png" group-title="1 TDT ESPAÑA" tvg-name="AXN WHITE HD",AXN WHITE HD
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-logo="https://i.imgur.com/bDYXuEH.png" group-title="1 TDT ESPAÑA" tvg-name="AXN WHITE HD",AXN WHITE HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGMN7fMn6yPRLVUTRY9Zk9p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tIXNb9J.png" group-title="1 TDT ESPAÑA" tvg-name="AMC HD",AMC HD
+#EXTINF:-1 tvg-id="AMCSpain.es" tvg-logo="https://i.imgur.com/tIXNb9J.png" group-title="1 TDT ESPAÑA" tvg-name="AMC HD",AMC HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFK4ywZ5HeiGGsoZofLJ0T6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpTXJna.png" group-title="1 TDT ESPAÑA" tvg-name="TNT HD",TNT HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHz_sNUoSfFRNiZvfs364bo
@@ -104,9 +103,9 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiETzNlSvYcJWKCoaZ6y3-Ep
 #EXTINF:-1 tvg-logo="http://sergiovelilla.ddns.net/tv/vh1.jpg" group-title="1 TDT ESPAÑA" tvg-name="VH1 CLASSIC",VH1 CLASSIC
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHzyatuQ64yyno7C977mMAZ
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sBv8LHB.png" group-title="2 TDT AUTONOMICOS" tvg-name="ARAGON TV",ARAGON TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJlI26s.png" group-title="1 TDT ESPAÑA" tvg-name="CLASSICA",CLASSICA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHYpK22YbEoKfcMgrSroo0j
+#EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/sBv8LHB.png" group-title="2 TDT AUTONOMICOS" tvg-name="ARAGON TV",ARAGON TV
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFKczrtqRTt5qSoAXBd2j2W
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj5C3b4.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="CANAL SUR HD",CANAL SUR HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEnS-O9rAsb870FQZw3ChqB
@@ -118,8 +117,6 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFNVOtlFq87tenBQgGkUZ6j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7k6VVY.png" group-title="2 TDT AUTONOMICOS" tvg-name="TELEMADRID HD",TELEMADRID HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiG9246Vuf18KGU_8o3wwJ-X
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJlI26s.png" group-title="2 TDT AUTONOMICOS" tvg-name="CLASSICA",CLASSICA
-http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHYpK22YbEoKfcMgrSroo0j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Jw4EXV.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="Galicia TV HD",Galicia TV HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8NjoDWNugcnVHXcJKtFVrqO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fQoKFVt.png" group-title="2 TDT AUTONOMICOS" tvg-name="Galicia TV 2 HD",Galicia TV 2 HD
@@ -136,19 +133,17 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0a
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8MdpI2fraIy8sv9JCfqs_ez
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rS5N6Mv.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="TV3 CAT",TV3 CAT
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EDRxiqXqi2q_aAi5zKC_pVgtK6VSYJcQUBKV4UM7SoRH
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMgjAiO.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="3/24 CAT",3/24 CAT
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/AMgjAiO.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="3/24 CAT",3/24 CAT
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EDRxiqXqi2q_aAi5zKC_pVgQIA-pfztezQUYI7RyMlBq
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbNbjWD.png" group-title="2 TDT AUTONOMICOS" tvg-name="8TV",8TV
+#EXTINF:-1 tvg-id="8TVCadiz.es "tvg-logo="https://i.imgur.com/ZbNbjWD.png" group-title="2 TDT AUTONOMICOS" tvg-name="8TV",8TV
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGwlzvcYJI6OdSL4HINwR_n
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvHRy4y.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="7RM",7RM
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-logo="https://i.imgur.com/BvHRy4y.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="7RM",7RM
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH6jI4oZR2oRXV-EV6HZYWa
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uWFroUo.jpg" group-title="3 MOVISTAR TV" tvg-name="MOVISTAR FEST HD",MOVISTAR FEST HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrj4uBioPSGmABf1Kje34ddm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cywGVzK.jpg" group-title="3 MOVISTAR TV" tvg-name="LA RESISTENCIA",LA RESISTENCIA
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrgjVN0CTdRnQS9zxnJAe72R
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QrN4TY5.jpg" group-title="3 MOVISTAR TV" tvg-name="BOM CINE",BOM CINE
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/QrN4TY5.jpg" group-title="3 MOVISTAR TV" tvg-name="BOM CINE",BOM CINE
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umriWW109gcWawGevl7tPCm3Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7g3XQYE.png" group-title="3 MOVISTAR TV" tvg-name="CAZAVISION",CAZAVISION
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umriW2DgT4FkrRZBcVa0v-KRN
@@ -156,7 +151,7 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_u
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhsEMurFVOiZC_8bOXezmdJ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Znpuolr.png" group-title="3 MOVISTAR TV" tvg-name="M+ELLAS #V HD",M+ELLAS #V HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrj4pTQGXdbc2Rx6S4n5s9ci
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XFGpN9e.png" group-title="3 MOVISTAR TV" tvg-name="MOVISTAR 0# HD",MOVISTAR 0# HD
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-logo="https://i.imgur.com/XFGpN9e.png" group-title="3 MOVISTAR TV" tvg-name="MOVISTAR 0# HD",MOVISTAR 0# HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiG_hEOVMzWxUBbwJsRbHTMR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJrH1eL.png" group-title="3 MOVISTAR TV" tvg-name="MOVISTAR ESTRENOS HD",MOVISTAR ESTRENOS HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGsNOIzMkH-gsGP_zGtH4qB
@@ -176,8 +171,6 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_u
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEunZ13SlBpGwPV1ZIY150D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQPTeK9.png" group-title="3 MOVISTAR TV" tvg-name="MOVISTAR SERIES 2 HD",MOVISTAR SERIES 2 HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHIdHjet6LH7NMoX_tbaUaf
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85IR7ts.jpg" group-title="4 MOVISTAR DEPORTES" tvg-name="MOVISTAR LA LIGA HD",MOVISTAR LA LIGA HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EG0FKWv0EZfP18tJgf6UxVJvPtJWd8BMgFlvHju4YQj_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85IR7ts.jpg" group-title="4 MOVISTAR DEPORTES" tvg-name="MOVISTAR LA LIGA 1 HD",MOVISTAR LA LIGA 1 HD
@@ -244,7 +237,7 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFWvjkvjV5GGE1DjJwe5UtN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLpDK6s.png" group-title="4 MOVISTAR DEPORTES" tvg-name="MOVISTAR LA LIGA 10",MOVISTAR LA LIGA 10
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGNJgqXxZk1Gf_PmiPniqiz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuAVTrP.jpg" group-title="4 MOVISTAR DEPORTES" tvg-name="BARCA TV HD",BARCA TV HD
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-logo="https://i.imgur.com/LuAVTrP.jpg" group-title="4 MOVISTAR DEPORTES" tvg-name="BARCA TV HD",BARCA TV HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EDRxiqXqi2q_aAi5zKC_pVg8b4412jcP4yNZ9Bs43QMS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ajI4o5R.jpg" group-title="4 MOVISTAR DEPORTES" tvg-name="REAL MADRID TV",REAL MADRID TV
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEt56G_WFbL5IFi2gfGf1yO
@@ -344,31 +337,19 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_u
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrj5TCSr0ODnBTsGIw-JG2Hj
 #EXTINF:-1 tvg-logo="" group-title="4 MOVISTAR DEPORTES" tvg-name="Valtteri Bottas Helmet Camera",Valtteri Bottas Helmet Camera
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjcuRXetWJTpvFKhYpfrrXh
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/115YIXf.jpg" group-title="5 TDT INFANTIL" tvg-name="CLAN HD",CLAN HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEBisQHMi5rCQFfSZ2v6Y70
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2O1R1vC.png" group-title="5 TDT INFANTIL" tvg-name="DISNEY JR",DISNEY JR
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiF1Z9xb0nWhFHTnRD8rKwJp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouHyaY8.jpg" group-title="5 TDT INFANTIL" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFFCfdiZQEvjTovRQpxHdAW
-#EXTINF:-1 tvg-logo="https://i.imgur.com/loglmzv.png" group-title="5 TDT INFANTIL" tvg-name="BOING",BOING
+#EXTINF:-1 tvg-ip="BoingSpain.it" tvg-logo="https://i.imgur.com/loglmzv.png" group-title="5 TDT INFANTIL" tvg-name="BOING",BOING
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGt86C3dUnVi0XAgqGGQtBL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYZ0jzz.png" group-title="5 TDT INFANTIL" tvg-name="CANAL PANDA",CANAL PANDA
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHiiO8JmJ4XJUl1ZpRFzwo5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mw5dOHq.png" group-title="5 TDT INFANTIL" tvg-name="BABY TV",BABY TV
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://i.imgur.com/mw5dOHq.png" group-title="5 TDT INFANTIL" tvg-name="BABY TV",BABY TV
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH3mTIYfKwcSHlrkbzQhVCD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nbPnvj8.png" group-title="5 TDT INFANTIL" tvg-name="NICKELODEON HD",NICKELODEON HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHlJD9nvMkgU_TiUH_t_4Bv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YbySDmN.png" group-title="5 TDT INFANTIL" tvg-name="NICK JR",NICK JR
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHBihqG5vKdTZjoOdGkARFs
-
-
-
-
-
-
-
-
-
-
