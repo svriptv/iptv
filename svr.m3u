@@ -24,6 +24,8 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFsK9IZKbrUtUSryo0yWVTf
 #EXTINF:-1 tvg-id="Odisea.es" tvg-logo="https://i.imgur.com/NmHA8Eo.jpg" group-title="1 TDT ESPAÑA" tvg-name="ODISEA",ODISEA
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8OC1qDZJKhJ_Ly0WpCunpKx
+#EXTINF:-1 tvg-id="Odisea.es" tvg-logo="https://i.imgur.com/NmHA8Eo.jpg" group-title="1 TDT ESPAÑA" tvg-name="ODISEA 4K",ODISEA 4K
+http://tutercer.xyz:8080/34641055097/695431/71199
 #EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-logo="https://i.imgur.com/BUOfcFj.png" group-title="1 TDT ESPAÑA" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEFsGuiIbYNlDoMKSc5T7a9
 #EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-logo="https://i.imgur.com/mE0jfCs.png" group-title="1 TDT ESPAÑA" tvg-name="NATIONAL GEOGRAFIC WILD",NATIONAL GEOGRAFIC WILD
@@ -110,9 +112,13 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 
 
 #EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/sBv8LHB.png" group-title="2 TDT AUTONOMICOS" tvg-name="ARAGON TV",ARAGON TV
-http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFKczrtqRTt5qSoAXBd2j2W
+http://tutercer.xyz:8080/34641055097/695431/71147
 #EXTINF:-1 tvg-id="CanalSUR.us" tvg-logo="https://i.imgur.com/Lj5C3b4.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="CANAL SUR HD",CANAL SUR HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEnS-O9rAsb870FQZw3ChqB
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="CANAL SUR 2",CANAL SUR 2
+http://tutercer.xyz:8080/34641055097/695431/71141
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="ALL FLAMENCO",ALL FLAMENCO
+http://tutercer.xyz:8080/34641055097/695431/71142
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hE7RhSf.png" group-title="2 TDT AUTONOMICOS" tvg-name="CMM HD",CMM HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHmpQqIHVDZ_lm92G6OFHJ0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NJW4mkV.png" group-title="2 TDT AUTONOMICOS" tvg-name="EXTREMADURA TV",EXTREMADURA TV
@@ -143,6 +149,10 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EDRxiqXqi2q_aAi5zKC_
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGwlzvcYJI6OdSL4HINwR_n
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-logo="https://i.imgur.com/BvHRy4y.jpg" group-title="2 TDT AUTONOMICOS" tvg-name="7RM",7RM
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH6jI4oZR2oRXV-EV6HZYWa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="ETB 1",ETB 1
+http://tutercer.xyz:8080/34641055097/695431/71136
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="ETB 2",ETB 2
+http://tutercer.xyz:8080/34641055097/695431/71137
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="EITB Basque",EITB Basque
 http://tutercer.xyz:8080/34641055097/695431/71275
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="Televisión Canaria",Televisión Canaria
@@ -165,6 +175,8 @@ http://tutercer.xyz:8080/34641055097/695431/71283
 http://tutercer.xyz:8080/34641055097/695431/71284
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="PTV LINARES" ,PTV LINARES
 http://tutercer.xyz:8080/34641055097/695431/71285
+
+
 
 
 
@@ -386,3 +398,7 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHlJD9nvMkgU_TiUH_t_4Bv
 #EXTINF:-1 tvg-id="NickJrSpain.es" tvg-logo="https://i.imgur.com/YbySDmN.png" group-title="5 TDT INFANTIL" tvg-name="NICK JR",NICK JR
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHBihqG5vKdTZjoOdGkARFs
+
+
+
+
