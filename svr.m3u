@@ -1,32 +1,4 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz"
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="6 OTROS" tvg-name="La 1 HD",La 1 HD
-http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEjBBKKilDJdbp0jDCTlXWT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/q5D1VoJ.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 1 HD",La 1 HD
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEjBBKKilDJdbp0jDCTlXWT
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/xOwgxUR.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 2 HD",La 2 HD
