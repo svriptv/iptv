@@ -52,6 +52,10 @@ http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcX
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGEyPhhHMRJTB6lfx5pdESr
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://i.imgur.com/qnpm3Wl.jpg" group-title="1 TDT ESPAÑA" tvg-name="A3SERIES",A3SERIES
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGzt_iqSRjynNp6dyhVR44X
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 TDT ESPAÑA" tvg-name="ANTENA 3 INTERNACIONAL",ANTENA 3 INTERNACIONAL
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612112
+#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-logo="" group-title="1 TDT ESPAÑA" tvg-name="TVE INTERNACIONAL",TVE INTERNACIONAL
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612127
 #EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://i.imgur.com/6Z7oB9g.png" group-title="1 TDT ESPAÑA" tvg-name="ENERGY",ENERGY
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEPXa2DzZLtaCbIytF6dy15
 #EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.imgur.com/utzEYMk.jpg" group-title="1 TDT ESPAÑA" tvg-name="DIVINITY",DIVINITY
@@ -190,6 +194,18 @@ http://tutercer.xyz:8080/34641055097/695431/71284
 http://tutercer.xyz:8080/34641055097/695431/71285
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="Levante TV",Levante TV
 http://tutercer.xyz:8080/34641055097/695431/62467
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="TELEVISIÓ DE GIRONA",TELEVISIÓ DE GIRONA
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612369
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="OPULAR TV MELILLA",POPULAR TV MELILLA
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612352
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="5RTV SANTA FE",5RTV SANTA FE
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612376
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="INTERALMERÍA TV",INTERALMERÍA TV
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612378
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="ONDA TV CANAL 10",ONDA TV CANAL 10
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612380
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="2 TDT AUTONOMICOS" tvg-name="ALCARRIA TV",ALCARRIA TV
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612381
 
 
 
