@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTM3U url-tvg="https://github.com/rwaempires/IPTV-1/blob/master/EPG/WebGrab++.config_71.xml"
+
 
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/q5D1VoJ.jpg" group-title="1 TDT ESPAÑA" tvg-name="La 1",La 1
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEjBBKKilDJdbp0jDCTlXWT
@@ -124,7 +126,7 @@ http://tutercer.xyz:8080/34641055097/695431/71266
 http://tutercer.xyz:8080/34641055097/695431/71267
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 TDT ESPAÑA" tvg-name="TVE Internacional",TVE Internacional
 http://tutercer.xyz:8080/34641055097/695431/71268
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 TDT ESPAÑA" tvg-name="EL TORO TV",EL TORO TV
+#EXTINF:-1 tvg-id="516" tvg-logo="https://i.imgur.com/uamBQVV.jpg" group-title="1 TDT ESPAÑA" tvg-name="EL TORO TV",EL TORO TV
 http://tutercer.xyz:8080/34641055097/695431/62417
 
 
