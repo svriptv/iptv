@@ -1,0 +1,427 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTINF:-1 ,
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://i.imgur.com/q5D1VoJ.jpg" ,La 1
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEjBBKKilDJdbp0jDCTlXWT
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/xOwgxUR.jpg" ,La 2
+http://tutercer.xyz:8080/34641055097/695431/71116
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="https://i.imgur.com/cEUZL3g.jpg" ,ANTENA 3
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEd3Epib-XmDFVkTjFIiO4e
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="https://i.imgur.com/8mNhAxX.jpg" ,CUATRO
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH-kvg5TBIbJbbmnuBwaSyq
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Telecinco.es" tvg-name="TELECINCO" tvg-logo="https://i.imgur.com/99F1qVe.jpg" ,TELECINCO
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEVOGlnuY6ddMvzul5VQjDt
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://i.imgur.com/GeWMScE.jpg" ,LA SEXTA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEfnB5V4vECL8jG-BiipzAF
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Mega.es" tvg-name="MEGA" tvg-logo="https://i.imgur.com/6sorxjd.jpg" ,MEGA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHtUGLDvLVjo_VbcYMlNwdk
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Neox.es" tvg-name="NEOX" tvg-logo="https://i.imgur.com/BUSPM4V.png" ,NEOX
+http://tutercer.xyz:8080/34641055097/695431/71166
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="DMAXSpain.es" tvg-name="DMAX" tvg-logo="https://i.imgur.com/RoPjRDe.jpg" ,DMAX
+http://tutercer.xyz:8080/34641055097/695431/71204
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="HistoriaSpain.es" tvg-name="HISTORIA" tvg-logo="https://i.imgur.com/jz35c9P.jpg" ,HISTORIA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiES-_pD1_AKkKALNeIszYAU
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="DiscoveryChannelSpain.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/barBPQ8.png" ,DISCOVERY CHANNEL
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFsK9IZKbrUtUSryo0yWVTf
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Odisea.es" tvg-name="ODISEA" tvg-logo="https://i.imgur.com/NmHA8Eo.jpg" ,ODISEA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8OC1qDZJKhJ_Ly0WpCunpKx
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Odisea.es" tvg-name="ODISEA 4K" tvg-logo="https://i.imgur.com/NmHA8Eo.jpg" ,ODISEA 4K
+http://tutercer.xyz:8080/34641055097/695431/71199
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="NationalGeographicSpain.es" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/BUOfcFj.png" ,NATIONAL GEOGRAPHIC
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEFsGuiIbYNlDoMKSc5T7a9
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="NationalGeographicWildSpain.es" tvg-name="NATIONAL GEOGRAFIC WILD" tvg-logo="https://i.imgur.com/mE0jfCs.png" ,NATIONAL GEOGRAFIC WILD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFDvrSf5b026SXm2KhI8-46
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="DW" ,DW
+http://tutercer.xyz:8080/34641055097/695431/57295
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="MTVSpain.es" tvg-name="MTV" tvg-logo="https://i.imgur.com/gOoP7ZO.png" ,MTV
+http://tutercer.xyz:8080/34641055097/695431/71259
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="FoxSpain.es" tvg-name="FOX" tvg-logo="https://i.imgur.com/J3F8ezJ.png" ,FOX
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFs1Qi6wZKZQJgypjfK1nLv
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="CrimenPlusInvestigacion.es" tvg-name="CRIMEN MAS+ INVESTIGACION" tvg-logo="https://i.imgur.com/uKoJRxp.png" ,CRIMEN MAS+ INVESTIGACION
+http://tutercer.xyz:8080/34641055097/695431/71209
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="AMCSpain.es" tvg-name="AMC BREAK HD" tvg-logo="https://i.imgur.com/TeOcDUp.png" ,AMC BREAK HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFSg9CQdVweqAR39QEabd0q
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Nova.es" tvg-name="NOVA" tvg-logo="https://i.imgur.com/etFLXgV.png" ,NOVA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiG_ugSjFfLORAsDE4TsOMVj
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Canal24Horas.es" tvg-name="24 HORAS" tvg-logo="https://i.imgur.com/SucjJ0S.png" ,24 HORAS
+http://tutercer.xyz:8080/34641055097/695431/71263
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="ParamountChannelSpain.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.imgur.com/9GXU9It.png" ,PARAMOUNT CHANNEL
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHwWluaqRCDKIG7FJJWbBQ-
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Somos.es" tvg-name="SOMOS HD" tvg-logo="https://i.imgur.com/rjiWjAI.png" ,SOMOS HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEh4Rfi-H6vn8iR4hUciS8q
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="FactoriadeFiccion.es" tvg-name="FDF" tvg-logo="https://i.imgur.com/IUDaTZH.png" ,FDF
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGEyPhhHMRJTB6lfx5pdESr
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Atreseries.es" tvg-name="A3SERIES" tvg-logo="https://i.imgur.com/qnpm3Wl.jpg" ,A3SERIES
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGzt_iqSRjynNp6dyhVR44X
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="ANTENA 3 INTERNACIONAL" ,ANTENA 3 INTERNACIONAL
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612112
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="TVEIntEu.es" tvg-name="TVE INTERNACIONAL" ,TVE INTERNACIONAL
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612127
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="https://i.imgur.com/6Z7oB9g.png" ,ENERGY
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEPXa2DzZLtaCbIytF6dy15
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Divinity.es" tvg-name="DIVINITY" tvg-logo="https://i.imgur.com/utzEYMk.jpg" ,DIVINITY
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHwQBD3ya63d2dlRejUkE1_
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="BeMad.es" tvg-name="BEMAD HD" tvg-logo="https://i.imgur.com/fzLrlqT.png" ,BEMAD HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHKusN_JaZWL3rMrDSXeSTz
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="TEN.es" tvg-name="TEN" tvg-logo="https://i.imgur.com/9v2J4J6.png" ,TEN
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFquTJM6q2Wxoj17dHcrbP6
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="516" tvg-name="EL TORO TV" tvg-logo="https://i.imgur.com/uamBQVV.jpg" ,EL TORO TV
+http://tutercer.xyz:8080/34641055097/695431/62417
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="IberaliaTV.es" tvg-name="IBERALIA" tvg-logo="https://i.imgur.com/F0hTMEA.png" ,IBERALIA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEEhUKlN4h6YBGWtjyZB2e_
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="TV 13" tvg-logo="https://i.imgur.com/pp589P0.png" ,TV 13
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiElpfI58x8nqecSYaYksrBv
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="HIT TV" tvg-logo="https://i.imgur.com/D305LID.png" ,HIT TV
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEqbV8mEVED5H2IG8gZuRc0
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="CanalHollywoodSpain.es" tvg-name="HOLLYWOOD HD" tvg-logo="https://i.imgur.com/blSVUzd.png" ,HOLLYWOOD HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHwzr5wbGRv3JIa0GlDIYzT
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="TCMSpain.es" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/82JabDS.png" ,TCM HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGJ_XBaP_aPD5dZlBk4gx8Z
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="SundanceTVSpain.es" tvg-name="SUNDANCE" tvg-logo="https://i.imgur.com/px2TmWg.png" ,SUNDANCE
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHf2xTEvmmdFQiUpOdBz40A
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="XTRM.es" tvg-name="XTRM" ,XTRM
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEJiKsCW7FRQ0dyc8iwgWKy
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Dark.es" tvg-name="DARK HD" tvg-logo="https://i.imgur.com/7QlBpMv.png" ,DARK HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EMMnhkO5e6BFTd7YTaYX328ZPPLv7egipOs8gyxHl-OL
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Calle13.es" tvg-name="CALLE 13 HD" tvg-logo="https://i.imgur.com/yH4N6mM.jpg" ,CALLE 13 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHwNcNnz4y4bbVC6UCQqh9C
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="AXNEurope.gr" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/qhSUMkA.jpg" ,AXN HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHUs9pjdP7pYvCJnIRAGhzJ
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="AXNWhite.us" tvg-name="AXN WHITE HD" tvg-logo="https://i.imgur.com/bDYXuEH.png" ,AXN WHITE HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGMN7fMn6yPRLVUTRY9Zk9p
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="AMCSpain.es" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/tIXNb9J.png" ,AMC HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFK4ywZ5HeiGGsoZofLJ0T6
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="TNTSpain.es" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/SpTXJna.png" ,TNT HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHz_sNUoSfFRNiZvfs364bo
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="SyfySpain.us" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/Hi44xJB.jpg" ,SYFY HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEtu8gp6cx_QeGfnklHrY0i
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="CosmopolitanTV.es" tvg-name="COSMOPOLITAN HD" tvg-logo="https://i.imgur.com/3Y6YrEQ.png" ,COSMOPOLITAN HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiF3CduAeCkFq2v5grS_rsoD
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="COSMOS" tvg-logo="https://i.imgur.com/n6qAfto.jpg" ,COSMOS
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGDLMtKZci0EC9rtY1wA4ap
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="ComedyCentralSpain.es" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/hLuaOet.png" ,COMEDY CENTRAL HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGF-kX4ixLbhRL4zjKAP9DO
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="DKiss.es" tvg-name="DKISS" tvg-logo="https://i.imgur.com/Wy42aLx.png" ,DKISS
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFOd7wGKQr3aZrWaYM2blr0
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Decasa.es" tvg-name="DECASA HD" tvg-logo="https://i.imgur.com/wSoEpiW.png" ,DECASA HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHEVoipYHiJP1XXFLcLE1W_
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="CanalCocina.es" tvg-name="CANAL COCINA HD" tvg-logo="https://i.imgur.com/xQz1XjA.png" ,CANAL COCINA HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGiDAMnkM9kuZW9BtlY3sW6
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="CazayPesca.es" tvg-name="CAZA Y PESCA HD" tvg-logo="https://i.imgur.com/icQWrdD.png" ,CAZA Y PESCA HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEcMS7pP__t3E2ENkSTTWcy
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="Negocios.TV" tvg-name="Negocios TV" ,Negocios TV
+http://tutercer.xyz:8080/34641055097/695431/71274
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="À PUNT" ,À PUNT
+http://tutercer.xyz:8080/34641055097/695431/71269
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="Canal CGTN Español" ,Canal CGTN Español
+http://tutercer.xyz:8080/34641055097/695431/71266
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="Distrito TV" ,Distrito TV
+http://tutercer.xyz:8080/34641055097/695431/71267
+#EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-name="TVE Internacional" ,TVE Internacional
+http://tutercer.xyz:8080/34641055097/695431/71268
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="AragonTV.es" tvg-name="ARAGON TV" tvg-logo="https://i.imgur.com/sBv8LHB.png" ,ARAGON TV
+http://tutercer.xyz:8080/34641055097/695431/71147
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="CanalSUR.us" tvg-name="CANAL SUR HD" tvg-logo="https://i.imgur.com/Lj5C3b4.jpg" ,CANAL SUR HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEnS-O9rAsb870FQZw3ChqB
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="CANAL SUR 2" ,CANAL SUR 2
+http://tutercer.xyz:8080/34641055097/695431/71141
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="ALL FLAMENCO" ,ALL FLAMENCO
+http://tutercer.xyz:8080/34641055097/695431/71142
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="CMM HD" tvg-logo="https://i.imgur.com/hE7RhSf.png" ,CMM HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHmpQqIHVDZ_lm92G6OFHJ0
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="EXTREMADURA TV" tvg-logo="https://i.imgur.com/NJW4mkV.png" ,EXTREMADURA TV
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHd-fQ57Nb7R7zYeCmQTgrb
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="LaOtra.es" tvg-name="LA OTRA" tvg-logo="https://i.imgur.com/u98suXM.jpg" ,LA OTRA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFNVOtlFq87tenBQgGkUZ6j
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="Telemadrid.es" tvg-name="TELEMADRID HD" tvg-logo="https://i.imgur.com/l7k6VVY.png" ,TELEMADRID HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiG9246Vuf18KGU_8o3wwJ-X
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="GaliciaTVEuropa.es" tvg-name="Galicia TV HD" tvg-logo="https://i.imgur.com/6Jw4EXV.jpg" ,Galicia TV HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8NjoDWNugcnVHXcJKtFVrqO
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="Galicia TV 2 HD" tvg-logo="https://i.imgur.com/fQoKFVt.png" ,Galicia TV 2 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8M_ZnGedowDZ6bUfuDWHaBd
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="TVG Infantil HD" tvg-logo="https://i.imgur.com/6Jw4EXV.jpg" ,TVG Infantil HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8MSGcEnXa8hO5bBcL727lLD
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="TVG Musigal HD" tvg-logo="https://i.imgur.com/6Jw4EXV.jpg" ,TVG Musigal HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8NbQacRkRyV95mO5ax4ElGg
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="TVG Cultura HD" tvg-logo="https://i.imgur.com/6Jw4EXV.jpg" ,TVG Cultura HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8M-uMa6eiXXL-dmPmIIKSdu
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="TVG Momentos G HD" tvg-logo="https://i.imgur.com/6Jw4EXV.jpg" ,TVG Momentos G HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8NavouIcuuKP18EPGZv2Yt-
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="TVG América HD" tvg-logo="https://i.imgur.com/6Jw4EXV.jpg" ,TVG América HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EBztZmuRjdpWMJWy_X0aa8MdpI2fraIy8sv9JCfqs_ez
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="TV3.es" tvg-name="TV3 CAT" tvg-logo="https://i.imgur.com/rS5N6Mv.jpg" ,TV3 CAT
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EDRxiqXqi2q_aAi5zKC_pVgtK6VSYJcQUBKV4UM7SoRH
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="324.es" tvg-name="3/24 CAT" tvg-logo="https://i.imgur.com/AMgjAiO.jpg" ,3/24 CAT
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EDRxiqXqi2q_aAi5zKC_pVgQIA-pfztezQUYI7RyMlBq
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="8TVCadiz.es" tvg-name="8TV" tvg-logo="https://i.imgur.com/ZbNbjWD.png" ,8TV
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGwlzvcYJI6OdSL4HINwR_n
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="7RM" tvg-logo="https://i.imgur.com/BvHRy4y.jpg" ,7RM
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH6jI4oZR2oRXV-EV6HZYWa
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="ETB1.es" tvg-name="ETB 1" tvg-logo="https://i.imgur.com/grBEBX5.png" ,ETB 1
+http://tutercer.xyz:8080/34641055097/695431/71136
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="ETB2.es" tvg-name="ETB 2" tvg-logo="https://i.imgur.com/ejvaeJl.png" ,ETB 2
+http://tutercer.xyz:8080/34641055097/695431/71137
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="EITB Basque" ,EITB Basque
+http://tutercer.xyz:8080/34641055097/695431/71275
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-id="TVCanaria.es" tvg-name="Televisión Canaria" tvg-logo="https://i.imgur.com/d37siFx.png" ,Televisión Canaria
+http://tutercer.xyz:8080/34641055097/695431/71276
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="101TV Málaga" ,101TV Málaga
+http://tutercer.xyz:8080/34641055097/695431/71277
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="Onda Cádiz" ,Onda Cádiz
+http://tutercer.xyz:8080/34641055097/695431/71278
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="Mijas 3.40 TV" ,Mijas 3.40 TV
+http://tutercer.xyz:8080/34641055097/695431/71279
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="Córdoba TV" ,Córdoba TV
+http://tutercer.xyz:8080/34641055097/695431/71280
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="PTV MALAGA" ,PTV MALAGA
+http://tutercer.xyz:8080/34641055097/695431/71281
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="PTV CORDOBA" ,PTV CORDOBA
+http://tutercer.xyz:8080/34641055097/695431/71282
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="PTV SEVILLA" ,PTV SEVILLA
+http://tutercer.xyz:8080/34641055097/695431/71283
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="PTV GRANADA" ,PTV GRANADA
+http://tutercer.xyz:8080/34641055097/695431/71284
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="PTV LINARES" ,PTV LINARES
+http://tutercer.xyz:8080/34641055097/695431/71285
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="Levante TV" ,Levante TV
+http://tutercer.xyz:8080/34641055097/695431/62467
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="TELEVISIÓ DE GIRONA" ,TELEVISIÓ DE GIRONA
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612369
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="OPULAR TV MELILLA" ,POPULAR TV MELILLA
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612352
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="5RTV SANTA FE" ,5RTV SANTA FE
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612376
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="INTERALMERÍA TV" ,INTERALMERÍA TV
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612378
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="ONDA TV CANAL 10" ,ONDA TV CANAL 10
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612380
+#EXTINF:-1 group-title="2 TDT AUTONOMICOS" tvg-name="ALCARRIA TV" ,ALCARRIA TV
+http://tv55.cfd:80/a54a839c88/f2ab5162a6/612381
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarFest.es" tvg-name="MOVISTAR FEST HD" tvg-logo="https://i.imgur.com/uWFroUo.jpg" ,MOVISTAR FEST HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrj4uBioPSGmABf1Kje34ddm
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="LaResistencia.es" tvg-name="LA RESISTENCIA" tvg-logo="https://i.imgur.com/cywGVzK.jpg" ,LA RESISTENCIA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrgjVN0CTdRnQS9zxnJAe72R
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="BomCine.es" tvg-name="BOM CINE" tvg-logo="https://i.imgur.com/QrN4TY5.jpg" ,BOM CINE
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umriWW109gcWawGevl7tPCm3Q
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-name="CAZAVISION" tvg-logo="https://i.imgur.com/7g3XQYE.png" ,CAZAVISION
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umriW2DgT4FkrRZBcVa0v-KRN
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-name="M+ VERY BRITISH" tvg-logo="https://i.imgur.com/ERiImxY.png" ,M+ VERY BRITISH
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhsEMurFVOiZC_8bOXezmdJ
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-name="M+ELLAS #V HD" tvg-logo="https://i.imgur.com/Znpuolr.png" ,M+ELLAS #V HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrj4pTQGXdbc2Rx6S4n5s9ci
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="0porMovistarPlus.es" tvg-name="MOVISTAR 0# HD" tvg-logo="https://i.imgur.com/XFGpN9e.png" ,MOVISTAR 0# HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiG_hEOVMzWxUBbwJsRbHTMR
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarEstrenos.es" tvg-name="MOVISTAR ESTRENOS HD" tvg-logo="https://i.imgur.com/DJrH1eL.png" ,MOVISTAR ESTRENOS HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGsNOIzMkH-gsGP_zGtH4qB
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarEstrenos2.es" tvg-name="MOVISTAR ESTRENOS 2 HD" tvg-logo="https://i.imgur.com/CN8Yh0C.png" ,MOVISTAR ESTRENOS 2 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjhvCyQmZmCg5T82flSK5QF
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarAccion.es" tvg-name="MOVISTAR ACCION HD" tvg-logo="https://i.imgur.com/nbRnBjW.png" ,MOVISTAR ACCION HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHA_oMZHYiBXIsPvQy1lZZe
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarComedia.es" tvg-name="MOVISTAR COMEDIA HD" tvg-logo="https://i.imgur.com/5nw4GwX.png" ,MOVISTAR COMEDIA HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFtKfhzNb1o0zEh85MDuTdV
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarDrama.es" tvg-name="MOVISTAR DRAMA HD" tvg-logo="https://i.imgur.com/ArgwkNM.png" ,MOVISTAR DRAMA HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHxmBY7q2C9C1lmUj2MLqJ5
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarCineEspanol.es" tvg-name="MOVISTAR CLASICOS CINE Ñ HD" tvg-logo="https://i.imgur.com/VaKnHR5.png" ,MOVISTAR CLASICOS CINE Ñ HD
+http://ugeen.live:8080/Ugeen_VIPK5LynA/xkQzf1/342
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarClasicos.es" tvg-name="MOVISTAR CLASICO HD" tvg-logo="https://i.imgur.com/VaKnHR5.png" ,MOVISTAR CLASICO HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjQFIxtpXEVYH0ypbOEx9JP
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarSeries.es" tvg-name="MOVISTAR SERIES" tvg-logo="https://i.imgur.com/nQxtYdF.png" ,MOVISTAR SERIES
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEunZ13SlBpGwPV1ZIY150D
+#EXTINF:-1 group-title="3 MOVISTAR TV" tvg-id="MovistarSeries2.es" tvg-name="MOVISTAR SERIES 2" tvg-logo="https://i.imgur.com/ZQPTeK9.png" ,MOVISTAR SERIES 2
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHIdHjet6LH7NMoX_tbaUaf
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga.es" tvg-name="MOVISTAR LA LIGA HD" tvg-logo="https://i.imgur.com/85IR7ts.jpg" ,MOVISTAR LA LIGA HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EG0FKWv0EZfP18tJgf6UxVJvPtJWd8BMgFlvHju4YQj_
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga1.es" tvg-name="MOVISTAR LA LIGA 1 HD" tvg-logo="https://i.imgur.com/85IR7ts.jpg" ,MOVISTAR LA LIGA 1 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiF8xD63iaX096lV5xAxpglE
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga2.es" tvg-name="MOVISTAR LA LIGA 2 HD" tvg-logo="https://i.imgur.com/85IR7ts.jpg" ,MOVISTAR LA LIGA 2 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGRYxEajTICbTkD6vTMeqGi
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga3.es" tvg-name="MOVISTAR LA LIGA 3 HD" tvg-logo="https://i.imgur.com/85IR7ts.jpg" ,MOVISTAR LA LIGA 3 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFmAuKjZcNClz73eqzMho7h
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga3.es" tvg-name="MOVISTAR LA LIGA 3" tvg-logo="https://i.imgur.com/FLpDK6s.png" ,MOVISTAR LA LIGA 3
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiENv9OaojqAKNeEKCfzlYBi
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga4.es" tvg-name="MOVISTAR LA LIGA 4" tvg-logo="https://i.imgur.com/FLpDK6s.png" ,MOVISTAR LA LIGA 4
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH7QbW04RfXKGrrxlz0vDdK
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga5.es" tvg-name="MOVISTAR LA LIGA 5" tvg-logo="https://i.imgur.com/FLpDK6s.png" ,MOVISTAR LA LIGA 5
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGL6zbVFW5rAdgoDTQiBg0V
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga6.es" tvg-name="MOVISTAR LA LIGA 6" tvg-logo="https://i.imgur.com/FLpDK6s.png" ,MOVISTAR LA LIGA 6
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGOQXI0G0m9J6ZFzo7Z2TVw
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga7.es" tvg-name="MOVISTAR LA LIGA 7" tvg-logo="https://i.imgur.com/FLpDK6s.png" ,MOVISTAR LA LIGA 7
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHevSHJ4zFgyQER8OclXfLR
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga8.es" tvg-name="MOVISTAR LA LIGA 8" tvg-logo="https://i.imgur.com/FLpDK6s.png" ,MOVISTAR LA LIGA 8
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEmqmpG3UXrGAqUu3dGv9hV
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga9.es" tvg-name="MOVISTAR LA LIGA 9" tvg-logo="https://i.imgur.com/FLpDK6s.png" ,MOVISTAR LA LIGA 9
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFWvjkvjV5GGE1DjJwe5UtN
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLaLiga10.es" tvg-name="MOVISTAR LA LIGA 10" tvg-logo="https://i.imgur.com/FLpDK6s.png" ,MOVISTAR LA LIGA 10
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGNJgqXxZk1Gf_PmiPniqiz
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="MOVISTAR LALIGA SMARTBANK HD" tvg-logo="https://i.imgur.com/vy1OFMy.jpg" ,MOVISTAR LALIGA SMARTBANK HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrggpQBlAB4vtKJKLSedQ3kT
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="MOVISTAR LALIGA SMARTBANK HD" tvg-logo="https://i.imgur.com/vy1OFMy.jpg" ,MOVISTAR LALIGA SMARTBANK HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrglNSHBeaIyxCIlkiQ2l_cC
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="MOVISTAR LALIGA SMARTBANK 1 HD" tvg-logo="https://i.imgur.com/vy1OFMy.jpg" ,MOVISTAR LALIGA SMARTBANK 1 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umriPqVH5Zz7C58f0vUuQsJ2s
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="LALIGA TV BAR HD" tvg-logo="https://i.imgur.com/xT22X8Y.png" ,LALIGA TV BAR HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrica73O19su3QWAzJyiQaFX
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="Gol.es" tvg-name="GOL TV HD" tvg-logo="https://i.imgur.com/M9wVxCC.jpg" ,GOL TV HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EDRxiqXqi2q_aAi5zKC_pVjjlsHHxMuPDlElJutFtQB6
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="M. DAZN LALIGA 1 HD" tvg-logo="https://i.imgur.com/a3EqB2d.png" ,M. DAZN LALIGA 1 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhF23RPUiI1uEI8LKXl94Tb
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="M. Dazn LaLiga 1 HD (720P) OP1" tvg-logo="https://i.imgur.com/a3EqB2d.png" ,M. Dazn LaLiga 1 HD (720P) OP1
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrg5CK4lhnhmX58qu75bYqGi
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="M. Dazn LaLiga 1 SD" tvg-logo="https://i.imgur.com/a3EqB2d.png" ,M. Dazn LaLiga 1 SD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhk2ORmVEY0kM4Jm6Iu9bAh
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Dazn LaLiga 2 HD (1080P)" tvg-logo="https://i.imgur.com/a3EqB2d.png" ,M. Dazn LaLiga 2 HD (1080P)
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umriEdXQkJE3gmkTB2UWcI5iI
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="M. Dazn LaLiga 2 HD (720P)" tvg-logo="https://i.imgur.com/a3EqB2d.png" ,M. Dazn LaLiga 2 HD (720P)
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhizR1prpJWywA7vhrmQAvX
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="M. Dazn LaLiga 2 HD (720P) OP1" tvg-logo="https://i.imgur.com/a3EqB2d.png" ,M. Dazn LaLiga 2 HD (720P) OP1
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umriKfEDp3QHETp2sb2dHIMPy
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="M. Dazn LaLiga 2 SD" tvg-logo="https://i.imgur.com/a3EqB2d.png" ,M. Dazn LaLiga 2 SD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrgxBMKawgzI468j-MxtMhVD
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones.es" tvg-name="MOVISTAR LIGA CAMPEONES" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFe1Lsq1cFRWQnqinIrPmEf
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones1.es" tvg-name="MOVISTAR LIGA CAMPEONES 1" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES 1
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFSCJwOfTs3vWhtjrqucGLD
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones2.es" tvg-name="MOVISTAR LIGA CAMPEONES 2" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES 2
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFDldmbkB6wBhxyX0yPoTnJ
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones3.es" tvg-name="MOVISTAR LIGA CAMPEONES 3" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES 3
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGhqcpxSlcf-YSCo--3o6uN
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones4.es" tvg-name="MOVISTAR LIGA CAMPEONES 4" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES 4
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFE84QM6iNAuHcZEg_Fhmb3
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones5.es" tvg-name="MOVISTAR LIGA CAMPEONES 5" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES 5
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGtZ0YcwymkkRGfXDS3SOJo
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones6.es" tvg-name="MOVISTAR LIGA CAMPEONES 6" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES 6
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEvhgfe57HIgkw6OWT3qBUn
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones7.es" tvg-name="MOVISTAR LIGA CAMPEONES 7" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES 7
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEd0Vwgt2dU950xV7Tci9M5
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarLigadeCampeones8.es" tvg-name="MOVISTAR LIGA CAMPEONES 8" tvg-logo="https://i.imgur.com/WsoqYn3.png" ,MOVISTAR LIGA CAMPEONES 8
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGxnhrDGAy9ANtazr7LkdxE
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="BarcaTV.es" tvg-name="BARCA TV HD" tvg-logo="https://i.imgur.com/LuAVTrP.jpg" ,BARCA TV HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EDRxiqXqi2q_aAi5zKC_pVg8b4412jcP4yNZ9Bs43QMS
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="RealMadridTV.es" tvg-name="REAL MADRID TV" tvg-logo="https://i.imgur.com/ajI4o5R.jpg" ,REAL MADRID TV
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEt56G_WFbL5IFi2gfGf1yO
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="MOVISTAR F1 HD" tvg-logo="https://i.imgur.com/oBt1yXR.png" ,MOVISTAR F1 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHZ0SzPqFdvb75LoutS9XaO
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="DAZNF1.es" tvg-name="DAZN F1 HD" tvg-logo="https://i.imgur.com/ncs4suR.png" ,DAZN F1 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EPmOpi07SAUFhm4t_f_wzEKMjY2qI0dz5LhCnnStuiqD
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="DAZNF1.es" tvg-name="DAZN F1 4K" tvg-logo="https://i.imgur.com/ncs4suR.png" ,DAZN F1 4K
+http://tutercer.xyz:8080/34641055097/695431/62460
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarDeportes.es" tvg-name="MOVISTAR DEPORTE" tvg-logo="https://i.imgur.com/x2N2qtj.png" ,MOVISTAR DEPORTE
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGX8kNNMwMGnVFNiuguNEOx
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarDeportes1.es" tvg-name="MOVISTAR DEPORTE 2" tvg-logo="https://i.imgur.com/x2N2qtj.png" ,MOVISTAR DEPORTE 2
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHlkem0rRGBu16TcoL9Lvc1
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarDeportes2.es" tvg-name="MOVISTAR DEPORTE 3" tvg-logo="https://i.imgur.com/x2N2qtj.png" ,MOVISTAR DEPORTE 3
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH5PYbDQO3lsSp-ZNn2q81t
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarDeportes3.es" tvg-name="MOVISTAR DEPORTE 4" tvg-logo="https://i.imgur.com/x2N2qtj.png" ,MOVISTAR DEPORTE 4
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEPnoYG1Fc9ma1ZRuFBFNcp
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarDeportes4.es" tvg-name="MOVISTAR DEPORTE 5" tvg-logo="https://i.imgur.com/x2N2qtj.png" ,MOVISTAR DEPORTE 5
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFWM3RBfgE-7U9Xng-XC5yj
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarDeportes5.es" tvg-name="MOVISTAR DEPORTE 6" tvg-logo="https://i.imgur.com/x2N2qtj.png" ,MOVISTAR DEPORTE 6
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH0gE9QE6riybdq3ufjBKDG
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarDeportes6.es" tvg-name="MOVISTAR DEPORTE 7" tvg-logo="https://i.imgur.com/x2N2qtj.png" ,MOVISTAR DEPORTE 7
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiG8PsOkYxq0zs3ttA3hGELk
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarDeportes7.es" tvg-name="MOVISTAR DEPORTE 8" tvg-logo="https://i.imgur.com/x2N2qtj.png" ,MOVISTAR DEPORTE 8
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiF7wuV-GzcU9eMruYh8aax5
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="MovistarGolf.es" tvg-name="MOVISTAR GOLF" tvg-logo="https://i.imgur.com/DEsg3Sq.png" ,MOVISTAR GOLF
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGTtzjaWUfVaeBWVY7ckSo7
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="MOVISTAR TOROS" tvg-logo="https://i.imgur.com/lgu8TiM.png" ,MOVISTAR TOROS
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEUWKefzoGz0uBicPNG4cYj
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="VamosporMovistarPlus.es" tvg-name="MOVISTAR VAMOS" tvg-logo="https://i.imgur.com/4tapkwu.png" ,MOVISTAR VAMOS
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFoh6yx7xELb_kpjBCqQvNx
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="MULTIDEPORTE" tvg-logo="https://i.imgur.com/AjU8LlH.png" ,MULTIDEPORTE
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEX4JlLrqK-FqN2uagwQ7dl
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/qTyJDsG.jpg" ,EUROSPORT 1
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFQytHLiimSNWWArzFhvHi4
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/3pKnDdK.jpg" ,EUROSPORT 2
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhBVvhjl1l2lsRTPfNFDcao
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="Teledeporte.es" tvg-name="TELEDEPORTE" tvg-logo="https://i.imgur.com/ezoYLuD.jpg" ,TELEDEPORTE
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGL5WyQagaAJER4D2K_UoPp
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="Esport3.es" tvg-name="ESPORT 3" tvg-logo="https://i.imgur.com/uuqO6z6.jpg" ,ESPORT 3
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHP2u60ldBVXZzFK3v_aqzC
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1 HD" tvg-logo="https://i.imgur.com/joHSlXh.png" ,DAZN 1 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EL3g80BkFKiiC7PIp3e3mXWjN1_Xi6c-2Mx8H0ieXZqx
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2 HD" tvg-logo="https://i.imgur.com/vpQXATX.png" ,DAZN 2 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EPZ8_4-7ynUaJRTMoaEN0sVFSClX9_mLAKdz7dZM1rjK
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3 HD" tvg-logo="https://i.imgur.com/erU0zz0.png" ,DAZN 3 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EPZ8_4-7ynUaJRTMoaEN0sUEOF3RuckUlb7DlN1RvVdj
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4 HD" tvg-logo="https://i.imgur.com/bTuqJic.png" ,DAZN 4 HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EPZ8_4-7ynUaJRTMoaEN0sXzqNfy2qzzgGuwOSd9gmSO
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="HorseTV.it" tvg-name="Horse TV" tvg-logo="https://i.imgur.com/RuUbFdA.png" ,Horse TV
+http://tutercer.xyz:8080/34641055097/695431/62409
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" tvg-logo="https://i.imgur.com/JfX610W.png" ,Nautical Channel
+http://tutercer.xyz:8080/34641055097/695431/62410
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="UBeat.mx" tvg-name="Ubeat" tvg-logo="https://i.imgur.com/ji2WG2m.png" ,Ubeat
+http://tutercer.xyz:8080/34641055097/695431/62411
+#EXTINF:-1 group-title="4 DEPORTES" tvg-id="DreamWorksChannelSpain.es" tvg-name="DreamWorks HD" tvg-logo="https://i.imgur.com/u6kfmgW.png" ,DreamWorks HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EP_al1n4J4wKHNmcuVYMrO8SgiSzlPw1T_cSGcvO1cz3
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Practise / Qualifying / Main Race" ,Practise / Qualifying / Main Race
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrijcuK75FO59a3eWRG9UWqw
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Data Channel" ,Data Channel
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjmDGa0jvCvEM5Ory3eRNeM
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Driver Tracker Channel" ,Driver Tracker Channel
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjK9jooTS9wW3RgqFbNKsFZ
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Pit Lane Channel" ,Pit Lane Channel
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhIUxVvV0OjiL9lC5N_HcWH
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Fernando Alonso Helmet Camera" ,Fernando Alonso Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjrufNQhh0kJCD_RMz1Kjrb
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Esteban Ocon Helmet Camera" ,Esteban Ocon Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjROToQsskREAWcs3MsAuBO
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Zhou Guanyu Helmet Camera" ,Zhou Guanyu Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrh_MNWbiCT2FxgbsJGquwWb
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Max Verstappen Helmet Camera" ,Max Verstappen Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhbd_1fF_BKwt1A4E8m4CCW
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Lance Stroll Helmet Camera" ,Lance Stroll Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrh0peApLL-1tof1uav7_Sl1
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Carlos Sainz Helmet Camera" ,Carlos Sainz Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umri3JmhrsPvgxe4m5pJ4y4lK
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Mick Schumacher Helmet Camera" ,Mick Schumacher Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umri45Qdt2DaI5teW2YZd2czv
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Charles Leclerc Helmet Camera" ,Charles Leclerc Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhVz_5uZb746x9xd4IcpvSV
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="George Russell Helmet Camera" ,George Russell Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrgaEQ6_ebHTBxyw8CI8rYwp
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name=",Lewis Hamilton Helmet Camera" ,Lewis Hamilton Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrh1jAqKqp_q_Uaq0HWxrWqT
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Kevin Magnussen Camera" ,Kevin Magnussen Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrhygyB6IPTKip2LkWDTGp-d
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Yuki Tsunoda  Helmet Camera" ,Yuki Tsunoda  Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjOYjdMJCMN8itFmm0R7k2V
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Daniel Ricciardo Helmet Camera" ,Daniel Ricciardo Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjE55t4ViexTiM77SQjmel5
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Pierre Gasly Helmet Camera" ,Pierre Gasly Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjGkEaPcgdiYTDbD_CfZ5Bw
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Alexander Albon Helmet Camera" ,Alexander Albon Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrg-fTcu51pEpzNh51zZ6FzI
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Sebastian Vettel Helmet Camera" ,Sebastian Vettel Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrgoZNKW1lCC-RavhkTtIJ6_
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Nicholas Latifi Helmet Camera" ,Nicholas Latifi Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjUVPzG7Y-wOgREFF2zgM4s
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Sergio Perez Helmet Camera" ,Sergio Perez Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrgQOe3eF8F9fpgSaHvFE_yJ
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Lando Norris Helmet Camera" ,Lando Norris Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrj5TCSr0ODnBTsGIw-JG2Hj
+#EXTINF:-1 group-title="4 DEPORTES" tvg-name="Valtteri Bottas Helmet Camera" ,Valtteri Bottas Helmet Camera
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EOsCQJ2K5H3vm-KSLQ_umrjcuRXetWJTpvFKhYpfrrXh
+#EXTINF:-1 group-title="5 TDT INFANTIL" tvg-id="ClanTVE.es" tvg-name="CLAN HD" tvg-logo="https://i.imgur.com/115YIXf.jpg" ,CLAN HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEBisQHMi5rCQFfSZ2v6Y70
+#EXTINF:-1 group-title="5 TDT INFANTIL" tvg-id="DisneyJuniorSpain.es" tvg-name="DISNEY JR" tvg-logo="https://i.imgur.com/2O1R1vC.png" ,DISNEY JR
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiF1Z9xb0nWhFHTnRD8rKwJp
+#EXTINF:-1 group-title="5 TDT INFANTIL" tvg-id="DisneyChannelSpain.es" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ouHyaY8.jpg" ,DISNEY CHANNEL
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiFFCfdiZQEvjTovRQpxHdAW
+#EXTINF:-1 group-title="5 TDT INFANTIL" tvg-id="BoingSpain.it" tvg-name="BOING" tvg-logo="https://i.imgur.com/loglmzv.png" ,BOING
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiGt86C3dUnVi0XAgqGGQtBL
+#EXTINF:-1 group-title="5 TDT INFANTIL" tvg-id="CanalPandaSpain.pt" tvg-name="CANAL PANDA" tvg-logo="https://i.imgur.com/nYZ0jzz.png" ,CANAL PANDA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHiiO8JmJ4XJUl1ZpRFzwo5
+#EXTINF:-1 group-title="5 TDT INFANTIL" tvg-id="BabyTV.uk" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/mw5dOHq.png" ,BABY TV
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiH3mTIYfKwcSHlrkbzQhVCD
+#EXTINF:-1 group-title="5 TDT INFANTIL" tvg-id="NickelodeonSpain.es" tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/nbPnvj8.png" ,NICKELODEON HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHlJD9nvMkgU_TiUH_t_4Bv
+#EXTINF:-1 group-title="5 TDT INFANTIL" tvg-id="NickJrSpain.es" tvg-name="NICK JR" tvg-logo="https://i.imgur.com/YbySDmN.png" ,NICK JR
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHBihqG5vKdTZjoOdGkARFs
+#EXTINF:-1 group-title="6 MUSICA" tvg-id="SolMusica.es" tvg-name="SOL MUSIC" tvg-logo="https://i.imgur.com/rGHnpxB.png" ,SOL MUSIC
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiE3WrBK4VxT9e3YT-5UUAsn
+#EXTINF:-1 group-title="6 MUSICA" tvg-id="Mezzo.fr" tvg-name="MEZZO LIVE HD" tvg-logo="https://i.imgur.com/TlsOhCA.png" ,MEZZO LIVE HD
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiETzNlSvYcJWKCoaZ6y3-Ep
+#EXTINF:-1 group-title="6 MUSICA" tvg-name="VH1 CLASSIC" ,VH1 CLASSIC
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHzyatuQ64yyno7C977mMAZ
+#EXTINF:-1 group-title="6 MUSICA" tvg-name="CLASSICA" tvg-logo="https://i.imgur.com/cJlI26s.png" ,CLASSICA
+http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiHYpK22YbEoKfcMgrSroo0j
