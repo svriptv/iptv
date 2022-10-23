@@ -1,6 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTINF:-1 ,
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://i.imgur.com/q5D1VoJ.jpg" ,La 1
 http://mateus.sportiumvip.xyz:8080/play/1v00RndvGvyonDUZqRY7EAm5tMOVeqeTizdNKWcXCiEjBBKKilDJdbp0jDCTlXWT
 #EXTINF:-1 group-title="1 TDT ESPAÑA" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/xOwgxUR.jpg" ,La 2
